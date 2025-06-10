@@ -22,7 +22,7 @@ const songs: Song[] = [
   title: "FLIGHT FEATHERS",
   artist: "2",
   coverUrl: "public/ダウンロード (2).jpg",
-  musicUrl: "public/FLIGHT_FEATHERS.mp3g",
+  musicUrl: "public/FLIGHT_FEATHERS.mp3",
   },
   {
   id: 3,
